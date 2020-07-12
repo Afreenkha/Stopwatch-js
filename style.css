@@ -1,0 +1,57 @@
+.bg{
+    background-color: slategray;
+    width:500px;
+    height:500px;
+    border-radius: 4px solid black;
+}
+
+.swbox{
+    background-color: gainsboro;
+    width:550px;
+    height:250px;
+    border-radius: 4px solid black;
+margin: auto;
+padding-top: 15px;
+text-align: center;
+margin-top: 80px;
+}
+
+.mainu{
+    width:  400px;
+    height: 220px;
+    background-color: black;
+margin: auto;
+padding-top: 20px;
+
+}
+#miss {
+
+    font-style: oblique;
+    font-size: 30px;
+}
+
+h2{
+    display: inline;
+    
+    
+}
+#y{
+    color: bisque;
+    font-size: 100px;
+    padding-bottom: 60px;
+    padding-right: 30px;
+}
+.uper{
+color: cornsilk;
+display: inline;
+padding-right: 10px;
+}
+
+.btn {
+    background-color:slategray ;
+    width:  80px;
+    color: blanchedalmond;
+    padding-right: 30px;
+
+
+}
